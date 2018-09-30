@@ -1,0 +1,216 @@
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\animations\startup.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFile.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\error.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.icns
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.ico
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe.config
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.pdb
+H:\Labs\2018\BB\GameTemplate\bin\Debug\SwinGame.dll
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\animations\splash.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\highscores.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\discover.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\explosion.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\loader_empty.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\loader_full.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\main_page.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\splash.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\SplashBack.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\hit.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\lose.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\sink.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\sounds\winner.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\MyGame.exe.config
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\MyGame.exe
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\MyGame.pdb
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\bin\Debug\SwinGame.dll
+C:\Users\Chamath\Downloads\swin-PTAP\week 4\Battleship\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\animations\splash.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\highscores.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\discover.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\explosion.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\loader_empty.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\loader_full.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\main_page.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\splash.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\SplashBack.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\hit.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\lose.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\sink.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\sounds\winner.wav
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\MyGame.exe.config
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\MyGame.exe
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\MyGame.pdb
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\bin\Debug\SwinGame.dll
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Chamath\Downloads\swin-PTAP\week 5\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\animations\splash.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\highscores.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy.jpg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\discover.jpg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\explosion.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\loader_empty.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\loader_full.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\main_page.jpg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\splash.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\SplashBack.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\hit.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\lose.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\sink.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\sounds\winner.wav
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\MyGame.exe.config
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\MyGame.exe
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\MyGame.pdb
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\bin\Debug\SwinGame.dll
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Fahad Aalarifi\Desktop\GameTemplate - Copy\GameTemplate - Copy\obj\x86\Debug-Windows\MyGame.pdb
